@@ -1,0 +1,23 @@
+// TODOS OS EXERCÍCIOS PODEM SER EXECUTADOS NO AMBIENTE DE TESTES OFICIAL DA LINGUAGEM
+// https://play.kotlinlang.org/
+
+//Variáveis
+
+// Crie uma variável do tipo var e atribua um valor real a ela. Ex: var minhaNota = 7.8
+// Crie uma variável do tipo val e atribua com texto entre " ". Ex: var nomeAluno = "Nome do Aluno"
+
+
+
+/**muito bem, para que seja possível visualizar o resultado devemos expor os dados na tela. Neste caso utilizaremos
+a função println() para isso:*/
+
+
+
+
+println(minhaNota)
+
+println(nomeAluno)
+
+
+
+//após fazer isso rode o programa e veja o resultado (clique RUN ou use o atalho CTRL + F9)
