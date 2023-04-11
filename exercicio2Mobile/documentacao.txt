@@ -1,0 +1,22 @@
+//Expressões atribuídas a Variáveis
+// Crie uma variável do tipo val e atribua a ela um número inteiro qualquer. Ex: val meuNumero = 332
+// Crie uma variável do tipo val e atribua a ela uma expressão matemática capaz de analisar se um número é par ou ímpar. 
+// Ex: val parOuImpar = meuNumero % 2 == 0
+
+
+/**muito bem, para que seja possível visualizar o resultado devemos expor os dados na tela. Neste caso utilizaremos
+a função println() para isso:*/
+
+println(
+
+parOuImpar  )
+
+//Note que é possível INTERPOLAR, ou seja extrair valores de variáveis e mesclar seus valores a determinado texto. Para isso precisamos usar o operador de extração "$" antes da variável desejada.:
+
+
+println("O número $meuNumero é: $parOuImpar")
+// Se você fez tudo certo, deve ter observado que o resultado foi "true -> Verdadeiro" ou "false -> Falso". 
+// Esse resultado não está errado, mas não é necessariamente claro para o usuário. 
+// Nas próximas atividades veremos como tratar esses valores e informar melhor o usuário do nosso programa de computador.
+
+//após fazer isso rode o programa e veja o resultado (clique RUN ou use o atalho CTRL + F9)
